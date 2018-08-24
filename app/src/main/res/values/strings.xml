@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="start">Nagraj</string>
+    <string name="pause">Pauza</string>
+    <string name="end">Zatrzymaj</string>
+    <string name="menu">Nagrania</string>
+</resources>
